@@ -1,0 +1,25 @@
+## 云计算
+#### OpenStack 对象存储
+> OpenStack 对象存储（swift）用于冗余，可扩展的数据存储，使用标准化的服务器集群来存储 PB 级的可访问数据。课程基于 OpenStack 搭建配置了一个最简的对象存储系统，希望让读者能够对对象存储有一个简单的了解
+- 实验1  安装配置
+- 实验2  容器和对象
+
+#### OpenStack 镜像管理
+> 云和虚拟化来说，镜像的重要性应该是不言而喻。本节内容主要讲述使用 OpenStack Client 去操作镜像，并通过 curl 直接调用 API 进行操作
+- 实验1  概述
+- 实验2  使用 OSC 或 API 管理镜像
+
+##### OpenStack Identity Manage
+> 课程将介绍 Identity service 中的部分概念，学习 openstack CLI 的使用，熟悉命令结构。了解 OpenStack 中 REST API 的一些基础知识。
+- 实验1  概念和引导
+- 实验2  OpenStack  CLI
+- 实验3  Identity API v3
+
+#### OpenStack Ocata版本单节点搭建
+> OpenStack是一个云操作系统，通过数据中心可控制大型的计算、存储、网络等资源池。所有的管理通过前端界面管理员就可以完成，同样也可以通过web接口让最终用户部署资源。
+- 实验1  openstack 环境
+- 实验2  Identity service
+- 实验3  Image service
+- 实验4  Compute service
+- 实验5  Networking service
+- 实验6  Dashboard
